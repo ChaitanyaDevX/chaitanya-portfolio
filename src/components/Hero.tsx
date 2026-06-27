@@ -202,7 +202,7 @@ export default function Hero() {
               {/* Main Avatar Container */}
               <div className="absolute inset-6 rounded-full overflow-hidden border-2 border-white/10 bg-slate-900 shadow-2xl flex items-center justify-center group">
                 <img
-                  src="./profile.png"
+                  src="/image.png"
                   alt="Chaitanya Bodkhe Avatar"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                   onError={(e) => {
