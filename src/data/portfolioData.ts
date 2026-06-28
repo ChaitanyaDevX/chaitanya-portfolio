@@ -191,28 +191,39 @@ export const experienceData: ExperienceItem[] = [
 
 export const achievementsData: AchievementItem[] = [
   {
+    title: 'Winner – INNOVYUH 2.0 National Level Hackathon',
+    category: 'events',
+    description: 'Secured 1st place in the INNOVYUH 2.0 National Level Hackathon by developing an innovative software solution.',
+    date: '2026'
+  },
+  {
+    title: 'Google Student Ambassador',
+    category: 'events',
+    description: 'Selected as Google Student Ambassador 2026 to organize technical events, mentor students, and promote Google technologies on campus.',
+    date: '2026'
+  },
+  {
+    title: 'Campus Mantri – GeeksforGeeks',
+    category: 'events',
+    description: 'Selected as Campus Mantri to build the coding community by organizing workshops, coding contests, and technical events.',
+    date: '2026'
+  },
+  {
     title: 'Oracle Certified Foundations Associate (Java)',
     category: 'certification',
-    description: 'Passed official Oracle examination demonstrating proficiency in Java fundamentals, OOP concepts, exceptions, and core API libraries.',
-    date: '2024'
+    description: 'Passed the official Oracle Java Foundations Associate certification demonstrating proficiency in Core Java and Object-Oriented Programming.',
+    date: '2026'
   },
   {
-    title: 'AI For All – Intel',
+    title: 'HackerRank Java (Basic)',
     category: 'certification',
-    description: 'Completed Intel program focused on foundational AI concepts, model behaviors, and ethical applications.',
-    date: '2024'
+    description: 'Successfully earned the HackerRank Java (Basic) Skill Certification.',
+    date: '2026'
   },
   {
-    title: 'Best Performer – Elevate Labs',
-    category: 'events',
-    description: 'Recognized for excellent problem-solving, code optimization, and software reliability engineering during internship.',
-    date: '2024'
-  },
-  {
-    title: '150+ DSA Problems Solved',
-    category: 'problem-solving',
-    description: 'Solved standard algorithmic challenges across arrays, strings, stack/queue, and trees on LeetCode/GeeksforGeeks.',
-    date: 'Ongoing',
-    link: 'https://leetcode.com/'
+    title: 'GeeksforGeeks DSA Training Program (Grade A)',
+    category: 'certification',
+    description: 'Successfully completed the GeeksforGeeks Data Structures & Algorithms Training Program with Grade A.',
+    date: '2026'
   }
 ];
