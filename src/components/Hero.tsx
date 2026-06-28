@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Mail, ArrowRight, Download } from 'lucide-react';
+import { Mail, ArrowRight} from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
 
 const GithubIcon = (props: React.SVGProps<SVGSVGElement>) => (
